@@ -1,0 +1,308 @@
+<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN
+<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN<!-- HTML4 -->
+<script type="text/javascript" src="javascript.js"></script>
+
+<!-- HTML5 -->
+<script src="javascript.js"></script>
+Documentation under CC-BY-SA 2.5 license · Code under CC0 license
+Data from: MDN
